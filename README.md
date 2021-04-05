@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on computer science 🔭
 - 📫 How to reach me ...
 - <a href="https://www.linkedin.com/in/harsh-kumar-choudhary-64228118b/
-" target="_blank"><img src="HarshKumarChoudary/linkedin.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+" target="_blank">![GitHub Logo](/linkedin.png)</a>
 
 
 
