@@ -3,8 +3,7 @@
 
 - 💞️ I’m looking to collaborate on computer science 🔭
 - 📫 How to reach me ...
-- <a href="https://www.linkedin.com/in/harsh-kumar-choudhary-64228118b/
-" target="_blank" width="50" height="45">![GitHub Logo](/linkedin.png)</a>
+
 
 
 
