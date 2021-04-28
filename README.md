@@ -5,7 +5,9 @@
 - 📫 How to reach me ...
 
 [<img align="left" alt="Harsh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/harsh-kumar-choudhary-64228118b/
+<br />
+---
+[linkedin]:https://www.linkedin.com/in/harsh-kumar-choudhary-64228118b/
 
 
 
