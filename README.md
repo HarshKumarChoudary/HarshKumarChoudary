@@ -8,6 +8,8 @@
 <br />
 ---
 [linkedin]:https://www.linkedin.com/in/harsh-kumar-choudhary-64228118b/
+<hr>
+![Stats](https://github-readme-stats.vercel.app/api?username=HarshKumarChoudary&show_icons=true&hide_border=true)
 
 
 
