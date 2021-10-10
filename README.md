@@ -1,4 +1,4 @@
-# Hi there! I'm [Harsh Choudhary](https://github.com/HarshKumarChoudary) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hi there, I'm [Harsh Choudhary](https://github.com/HarshKumarChoudary) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <img align="right" src="https://github.com/Giphy/GiphyAPI/blob/master/api_giphy_header.gif" width="40%"/>
 
 
