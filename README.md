@@ -35,8 +35,10 @@
 
 <hr>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=HarshKumarChoudary&show_icons=true&hide_border=true)
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HarshKumarChoudary&show_icons=true&theme=jolly&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshKumarChoudary&theme=jolly&hide_border=true" />
+</p>
 ---
 [linkedin]:https://www.linkedin.com/in/harsh-kumar-choudhary-64228118b/
 
