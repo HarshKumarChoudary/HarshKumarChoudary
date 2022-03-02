@@ -4,7 +4,7 @@
 
 <p>
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=F70000&size=30&center=true&vCenter=true&multiline=true&weight=100&height=100&width=220&lines=Hey+there%2C;I'm+Harsh!">
-  <img align="left" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+  <img align = "left" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> 
 </p>
 
 <br>
