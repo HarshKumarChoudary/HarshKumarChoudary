@@ -155,11 +155,6 @@ Recent Activity :
 
 
 <!--START_SECTION:activity-->
-`[02/27 11:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/27 08:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Suvraneel/Suvraneel](https://github.com/Suvraneel/Suvraneel)  
-`[02/27 08:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `676` commits in [Suvraneel/metrics](https://github.com/Suvraneel/metrics)  
-`[02/26 15:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#35`](https://github.com//girlscript/gssoc-website-new/issues/35 'Text not visible') in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
-`[02/26 15:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
