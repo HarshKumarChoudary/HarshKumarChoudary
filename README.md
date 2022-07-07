@@ -11,15 +11,24 @@
 <img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="260" height="auto">
 <br>
 
-- :octocat: &nbsp;[![Resume](https://img.shields.io/badge/HarshKumarChoudhary-RESUME-blue?style=for-the-badge&logo=Sega)](https://github.com/HarshKumarChoudary/HarshKumarChoudary/blob/main/Harsh's%20Resume.pdf)
-- :computer: &nbsp;I’m currently pursuing B.Tech in **Information Technology** at the  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[National Institute Of Technology Raipur](http://www.nitrr.ac.in/)**
-- :crystal_ball: &nbsp;I’m currently working on Responsive Web Design, JavaScript, SQL
-- :mailbox: &nbsp;You can reach out to me at : ***harshkumarchoudhary144@gmail.com***
-- :bowtie: &nbsp;Pronouns: He/Him
-- :video_game: &nbsp;**Hobbies**: PC Gaming, Coding, Reading, Soccer
+<h1 align="center">Welcome to the 😎 ROCKING world. 
+</h1>
+<p align="center">
+<h3>Hi, I am Harsh, working hard 🦾 each day to make self better and prepared for coming future 🐱‍🏍. </h3>
+</p>
 
-#
+<br>
+
+|<h3>👉🏻👈🏻🥺 Who am I?</h3>|<h3>💗 Things I love</h3>|
+|--|--|
+|💻 I'm a Full Stack Developer and Data Scientist 📊| 🎮 in free time.|
+|🏆 Won Covid ML Hackathon with 1st rank in my college.|🧩 for being strong.|
+|🌐 You can check out my [website](https://github.com/HarshKumarChoudary/HarshKumarChoudary/edit/main/README.md), 🔨 built with React JS.|🥤 Love Eating.|
+|📰 Worked on Deep Learning Research works| 😗 Whistling favourite songs.|
+|🔠 Currently mastering App Development.|🏡 And home sweet home.|
+
+
+
 <br>
 <h2 align=left>
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="35" width= auto>
@@ -27,15 +36,10 @@
 Connect with me on:
 <br></h2>
 
-
-<!-- 
-[![GitHub-Mark-Light](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only)![GitHub-Mark-Dark](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-dark-mode-only)](https://www.linkedin.com/in/suvraneel-bhuin) -->
-
-
 [![LinkedIn](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only)](https://www.linkedin.com/in/harsh-kumar-choudhary-64228118b/) &nbsp;&nbsp;
 [![Discord](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/dc.jpg#gh-light-mode-only)](https://discord.com/users/HARSH+KUMAR+CHOUDHARY#2570) &nbsp;&nbsp;
 [![WhatsApp](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/wp.png#gh-light-mode-only)](https://api.whatsapp.com/send?phone=7999930798&text=Hi!%20Harsh!!) &nbsp;&nbsp;
-
+<a href = "mailto::harshkumarchoudhary144@gmail.com"><img src = "https://github.com/HarshKumarChoudary/HarshKumarChoudary/blob/main/gmail.jpg" width="69" height="70" /></a>&nbsp;&nbsp;
 
 <br>
 <h2 align=left>
@@ -56,13 +60,12 @@ Find me on Coding Platforms:
 
 
 <br>
-<h2 align=left>
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/ufo.gif" height="50" width= auto>
-&nbsp;&nbsp;&nbsp;&nbsp;
-Competencies:
-<br></h2>
 
-
+## 👨🏻‍🏫 # Technical Skills
+|<h3>🤖 Machine Learning / Deep Learning</h3>|<h3>🏭 Backend</h3>|<h3>🌄 Frontend</h3>|
+|--|--|--|
+|<a href="http://pytorch.org/"><code><img height="35" src="https://www.pngitem.com/pimgs/m/31-310639_pytorch-logo-png-transparent-png.png" /></code></a><a href="https://www.tensorflow.org/"><code><img height="35" src="https://3.bp.blogspot.com/-d-nV7xJRmpw/Xo328dcAx3I/AAAAAAAAC7Q/qlqJOle6XIosJ3CGIDJ04F3Voh1iXDg0gCLcBGAsYHQ/s1600/TF_FullColor_Icon.jpg" /></code></a><a href="https://keras.io/"><code><img height="35" src="https://img.stackshare.io/service/5601/keras.png" /></code></a><a href="https://mxnet.apache.org/versions/1.7.0/"><code><img height="35" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/mxnet/img/mxnet-stack-220x234.png" /></code></a><a href="https://opencv.org/"><code><img height="35" src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" /></code></a><a href="https://scikit-learn.org/stable/"><code><img height="35" src="https://p7.hiclipart.com/preview/309/384/987/scikit-learn-python-computer-icons-scikit-image-machine-learning-learning.jpg" /></code></a><a href="https://matplotlib.org/"><code><img height="35" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" /></code></a>|<a href="https://www.djangoproject.com/"><code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /></code></a><a href="https://flask.palletsprojects.com/en/1.1.x/"><code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /></code></a><a href="https://fastapi.tiangolo.com/"><code><img height="35" src="https://www.programmableweb.com/sites/default/files/styles/facebook_scale_width_200/public/FastAPI%20Python%20Framework_0.jpg?itok=8KCFxxCo" /></code></a><a href="http://firebase.com/"><code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /></code></a>|<a href="https://reactjs.org/"><code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code></a><a href="http://vuejs.org/"><code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /></code></a> <a href="http://angular.io/"><code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /></code></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code></a> <a href="https://www.typescriptlang.org/"><code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code></a><a href="https://sass-lang.com/"><code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code></a>|
+<!-- 
 <table>
 <tr>
 <td><h4>Programming Languages</h4></td>
@@ -112,7 +115,7 @@ Competencies:
 <tr>
 <td><h4>Miscellaneous</h4></td>
 <td><img src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D"/><img src="https://img.shields.io/badge/VHDL-cc0000?style=for-the-badge&logo=xilinx&logoColor=cc0000&labelColor=black&color=cc0000"/><img src="https://img.shields.io/badge/GNU_Bash-blue?style=for-the-badge&logo=gnubash&labelColor=black&color=4EAA25"/></td></tr>
-</table>
+</table> -->
 
 
 
@@ -159,9 +162,6 @@ Recent Activity :
 
 ---
 [linkedin]:https://www.linkedin.com/in/harsh-kumar-choudhary-64228118b/
-
-
-
 
 
 
