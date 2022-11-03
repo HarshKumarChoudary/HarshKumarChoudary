@@ -22,7 +22,7 @@
 |<h3>👉🏻👈🏻🥺 Who am I?</h3>|<h3>💗 Things I love</h3>|
 |--|--|
 |💻 I'm a Full Stack Developer and Data Scientist 📊| 🎮 in free time.|
-|🏆 Won Covid ML Hackathon with 1st rank in my college.|🧩 for being strong.|
+|🏆 3rd ranked in CodeUtsava hackathon |🧩 for being strong.|
 |🌐 You can check out my [website](https://github.com/HarshKumarChoudary/HarshKumarChoudary/edit/main/README.md), 🔨 built with React JS.|🥤 Love Eating.|
 |📰 Worked on Deep Learning Research works| 😗 Whistling favourite songs.|
 |🔠 Currently mastering App Development.|🏡 And home sweet home.|
