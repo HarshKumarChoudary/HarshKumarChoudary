@@ -25,7 +25,7 @@
 |🏆 3rd ranked in CodeUtsava hackathon |🧩 for being strong.|
 |🌐 You can check out my [website](https://github.com/HarshKumarChoudary/HarshKumarChoudary/edit/main/README.md), 🔨 built with React JS.|🥤 Love Eating.|
 |📰 Worked on Deep Learning Research works| 😗 Whistling favourite songs.|
-|🔠 Currently mastering App Development.|🏡 And home sweet home.|
+|🔠 Currently mastering python Development.|🏡 And home sweet home.|
 
 
 
@@ -36,7 +36,6 @@
 Connect with me on:
 <br></h2>
 
-[![LinkedIn](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/in.png#gh-light-mode-only)](https://www.linkedin.com/in/harsh-kumar-choudhary-64228118b/) &nbsp;&nbsp;
 [![Discord](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/dc.jpg#gh-light-mode-only)](https://discord.com/users/HARSH+KUMAR+CHOUDHARY#2570) &nbsp;&nbsp;
 [![WhatsApp](https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/wp.png#gh-light-mode-only)](https://api.whatsapp.com/send?phone=7999930798&text=Hi!%20Harsh!!) &nbsp;&nbsp;
 <a href = "mailto::harshkumarchoudhary144@gmail.com"><img src = "https://github.com/HarshKumarChoudary/HarshKumarChoudary/blob/main/gmail.jpg" width="69" height="70" /></a>&nbsp;&nbsp;
@@ -45,7 +44,7 @@ Connect with me on:
 <h2 align=left>
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/target.gif" height="40" width= auto>
 &nbsp;&nbsp;&nbsp;&nbsp;
-Find me on Coding Platforms:
+<!-- Find me on Coding Platforms:
 <br></h2>
 
 
@@ -54,7 +53,7 @@ Find me on Coding Platforms:
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-00c353?style=for-the-badge&logo=HackerRank&logoColor=00EA64&labelColor=black)](https://www.hackerrank.com/harsh_K_C)
 [![CodeForces](https://img.shields.io/badge/-Codeforces-131342?style=for-the-badge&logo=Codeforces&logoColor=white&labelColor=0A0A23)](https://codeforces.com/profile/RKCROCKS144)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=4dcb72&labelColor=black)](https://auth.geeksforgeeks.org/user/harshkumarchoudhary144/profile)
-[![Dare2Compete](https://img.shields.io/badge/-Dare2compete-da8200?style=for-the-badge&logo=Dare2Compete&logoColor=ffa116&labelColor=black)](https://dare2compete.com/user/profile)
+[![Dare2Compete](https://img.shields.io/badge/-Dare2compete-da8200?style=for-the-badge&logo=Dare2Compete&logoColor=ffa116&labelColor=black)](https://dare2compete.com/user/profile) -->
 
 ##
 
